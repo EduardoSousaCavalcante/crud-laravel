@@ -35,7 +35,3 @@
 - **Excluindo:**
 
 	![Excluir](prints/excluir.png)
-
-## Observações
-
-- As imagens estão na pasta `prints/` no repositório; caso alguma não apareça, verifique nomes com espaços e sensibilidade a maiúsculas.

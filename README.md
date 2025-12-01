@@ -10,15 +10,15 @@
 
 - **Produtos cadastrados (tela inicial):**
 
-	![Produtos cadastrados](prints/tela incial.png)
+	![Produtos cadastrados](prints/incial.png)
 
 - **Adicionando produto:**
 
-	![Adicionando produto](prints/adicionando produto.png)
+	![Adicionando produto](prints/adicionando_produto.png)
 
 - **Produto adicionado:**
 
-	![Produto criado](prints/produto criado.png)
+	![Produto criado](prints/produto_criado.png)
 
 - **Alterando o produto (editando):**
 
